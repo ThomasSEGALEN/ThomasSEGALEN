@@ -1,9 +1,9 @@
 # Hi there, I'm Thomas ! 👋
-
+ 
 🚀 **Full-Stack Developer** | 🌍 **Based in France** | 💡 **Passionate about building innovative solutions**
-
+ 
 Welcome to my GitHub profile! I'm a software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
-
+ 
 ## 🛠️ **Technologies & Tools**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
@@ -41,21 +41,21 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 ![Git](https://img.shields.io/badge/-Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
+ 
 ## 💼 **Experience**
 - **Pega Developer**, Capgemini *(2024–2025)* — Low-code applications on the Pega Platform, business process modeling in the insurance sector, using Agile methodology.
 - **DevOps**, Parker Meggitt *(2023–2024)* — Migrating an environment from Python 2 to Python 3, containerization with Docker, and CI/CD pipelines on GitLab.
 - **Full-Stack Developer**, Rochefort Océan Urban Community *(2022–2023)* — Authentication and electronic voting system built with Laravel and Vue.js; generation of dynamic PDF reports.
-
+ 
 ## 🌟 **Featured Projects**
 - [Job Hunter](https://github.com/ThomasSEGALEN/job-hunter): Job search management tool built with AdonisJS, PostgreSQL, and the INSEE API. Helps discover companies and France Travail job offers while tracking and organizing job applications in one place.
 - [Discord Bot Template](https://github.com/ThomasSEGALEN/discord-bot-template): TypeScript template for building Discord bots with Discord.js, providing a solid foundation to quickly create, configure, and extend custom bots.
 - [Pragmap](https://github.com/ThomasSEGALEN/pragmap): Project management tool built with .NET, Vue.js, and PostgreSQL. Provides task and milestone management, project tracking, and roadmap planning in a centralized workspace.
 - [Online Vote](https://github.com/ThomasSEGALEN/online_vote): Online voting platform designed for local authorities, built with Laravel, Vue.js, and MySQL. Enables the creation and management of online voting sessions.
 - [Sketchy Wireframe](https://gitlab.com/JScriber/sketchy-wireframe): Wireframing application built with Vue.js, designed to quickly create, edit, and visualize website and application wireframes.
-
+ 
 ## 📈 **GitHub Stats**
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThomasSEGALEN&show_icons=true&include_all_commits=true&theme=github_dark)
-
-## 📫 **Contact**
-[LinkedIn](https://www.linkedin.com/in/thomas-segalen) | [Discord](https://discord.com/users/203674262333030400)
+ 
+## 📫 **Contact** 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-#A66C2)](https://www.linkedin.com/in/thomas-segalen) [![Discord](https://img.shields.io/badge/Discord-5865F2)](https://discord.com/users/203674262333030400)
