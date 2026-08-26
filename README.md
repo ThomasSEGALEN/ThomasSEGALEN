@@ -48,10 +48,10 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 - **Full-Stack Developer**, Rochefort Océan Urban Community *(2022–2023)* — Authentication and electronic voting system built with Laravel and Vue.js; generation of dynamic PDF reports.
 
 ## 🌟 **Featured Projects**
-- [Job Hunter](https://github.com/ThomasSEGALEN/job-hunter): Job search management tool for discovering companies and France Travail job offers, while tracking and organizing job applications in one place.
+- [Job Hunter](https://github.com/ThomasSEGALEN/job-hunter): Job search management tool built with AdonisJS, PostgreSQL, and the INSEE API. Helps discover companies and France Travail job offers while tracking and organizing job applications in one place.
 - [Discord Bot Template](https://github.com/ThomasSEGALEN/discord-bot-template): TypeScript template for building Discord bots with Discord.js, providing a solid foundation to quickly create, configure, and extend custom bots.
 - [Pragmap](https://github.com/ThomasSEGALEN/pragmap): Project management tool built with .NET, Vue.js, and PostgreSQL. Provides task and milestone management, project tracking, and roadmap planning in a centralized workspace.
-- [Online Vote](https://github.com/ThomasSEGALEN/online_vote): Online voting platform designed for local authorities, built with Laravel, Vue.js, TypeScript, and MySQL. Enables the creation and management of online voting sessions.
+- [Online Vote](https://github.com/ThomasSEGALEN/online_vote): Online voting platform designed for local authorities, built with Laravel, Vue.js, and MySQL. Enables the creation and management of online voting sessions.
 - [Sketchy Wireframe](https://gitlab.com/JScriber/sketchy-wireframe): Wireframing application built with Vue.js, designed to quickly create, edit, and visualize website and application wireframes.
 
 ## 📈 **GitHub Stats**
