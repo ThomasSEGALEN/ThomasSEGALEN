@@ -58,4 +58,4 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThomasSEGALEN&show_icons=true&include_all_commits=true&theme=github_dark)
  
 ## 📫 **Contact** 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-#A66C2)](https://www.linkedin.com/in/thomas-segalen) [![Discord](https://img.shields.io/badge/Discord-5865F2)](https://discord.com/users/203674262333030400)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://www.linkedin.com/in/thomas-segalen) [![Discord](https://img.shields.io/badge/Discord-5865F2)](https://discord.com/users/203674262333030400)
