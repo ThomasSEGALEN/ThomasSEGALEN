@@ -55,7 +55,11 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 - [Sketchy Wireframe](https://gitlab.com/JScriber/sketchy-wireframe): Wireframing application built with Vue.js, designed to quickly create, edit, and visualize website and application wireframes.
  
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ThomasSEGALEN&show_icons=true&include_all_commits=true&theme=github_dark)
+<div>
+ <img align="top" src="https://github-stats-extended.vercel.app/api?username=ThomasSEGALEN&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark"/>
+ &nbsp
+ <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThomasSEGALEN&langs_count=8&theme=github_dark"/>
+</div>
  
 ## 📫 **Contact** 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://www.linkedin.com/in/thomas-segalen) [![Discord](https://img.shields.io/badge/Discord-5865F2)](https://discord.com/users/203674262333030400)
